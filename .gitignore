@@ -1,0 +1,24 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# SolidWorks Temporary & Auto-recovery Files
+~$*
+*.tmp
+*.bak
+*.swp
+*.err
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build / Output / Logs
+*.log
